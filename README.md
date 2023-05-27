@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daram Nikhil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daramnikhil&label=Profile%20views&color=0e75b6&style=flat" alt="daramnikhil" /> </p>
 
-- 🔭 I’m currently working on **Reverse Image Search Engine**
+- 🔭 I’m currently working on **OpenCv** projects
 
 - 🌱 I’m currently learning **Data Science**
 
