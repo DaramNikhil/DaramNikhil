@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# Hi 👋 I'm Daram Nikhil
 
 - 🔭 I’m currently working on **OpenCv** projects<br><br>- 🌱 I’m currently learning **Data Science**<br><br>- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/daramnikhil](https://www.linkedin.com/in/daramnikhil)<br><br>- 💬 Ask me about **Data Science, ML,DL**<br><br>- 📫 How to reach me **nikhildaram51@gmail.com**<br>
 
@@ -18,13 +18,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaramNikhil&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaramNikhil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Nikhildaram51?t=R8U2hdUSYfxByY7qszVj4Q&s=09)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=DaramNikhil&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
