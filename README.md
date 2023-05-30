@@ -1,5 +1,5 @@
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daramnikhil&label=Profile%20views&color=0e75b6&style=flat" alt="daramnikhil" /> </p>
 # Hi 👋 I'm Daram Nikhil
 - 🔭 I’m currently working on **OpenCv** projects<br><br>- 🌱 I’m currently learning **Data Science**<br><br>- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/daramnikhil](https://www.linkedin.com/in/daramnikhil)<br><br>- 💬 Ask me about **Data Science, ML,DL**<br><br>- 📫 How to reach me **nikhildaram51@gmail.com**
 
