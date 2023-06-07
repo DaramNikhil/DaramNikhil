@@ -1,7 +1,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daramnikhil&label=Profile%20views&color=0e75b6&style=flat" alt="daramnikhil" /> </p>
 
-# Hi 👋 I'm Daram Nikhil
+<p align="center">
+  <h1>Hi 👋 I'm Daram Nikhil</h1>
+</p>
 - 🔭 I’m currently working on **OpenCv** projects<br><br>- 🌱 I’m currently learning **Data Science**<br><br>- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/daramnikhil](https://www.linkedin.com/in/daramnikhil)<br><br>- 💬 Ask me about **Data Science, ML,DL**<br><br>- 📫 How to reach me **nikhildaram51@gmail.com**
  
 <img align='left'><img src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vdbcq5yjcz9j6vd0mp7n464x2gtzi4jrzciw8h6v&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
