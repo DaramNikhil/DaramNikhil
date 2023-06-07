@@ -4,6 +4,7 @@
 # Hi 👋 I'm Daram Nikhil
 - 🔭 I’m currently working on **OpenCv** projects<br><br>- 🌱 I’m currently learning **Data Science**<br><br>- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/daramnikhil](https://www.linkedin.com/in/daramnikhil)<br><br>- 💬 Ask me about **Data Science, ML,DL**<br><br>- 📫 How to reach me **nikhildaram51@gmail.com**
  
+![image](https://github.com/DaramNikhil/DaramNikhil/assets/117379132/a8e9d065-7c49-4d77-95ae-70c6da328b1a)
 
 
 ## 🌐 Socials:
