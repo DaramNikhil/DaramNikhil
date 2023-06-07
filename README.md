@@ -4,8 +4,7 @@
 # Hi 👋 I'm Daram Nikhil
 - 🔭 I’m currently working on **OpenCv** projects<br><br>- 🌱 I’m currently learning **Data Science**<br><br>- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/daramnikhil](https://www.linkedin.com/in/daramnikhil)<br><br>- 💬 Ask me about **Data Science, ML,DL**<br><br>- 📫 How to reach me **nikhildaram51@gmail.com**
  
-![image](https://github.com/DaramNikhil/DaramNikhil/assets/117379132/a8e9d065-7c49-4d77-95ae-70c6da328b1a)
-
+<img align='left'><img src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vdbcq5yjcz9j6vd0mp7n464x2gtzi4jrzciw8h6v&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nikhil.daram_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daramnikhil) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Nikhildaram51?t=r64_acxsRKjpFbbAddfIGQ&s=09) 
