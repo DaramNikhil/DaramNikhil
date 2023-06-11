@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Data Science, Web Dev**<br><br>
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/daramnikhil](https://www.linkedin.com/in/daramnikhil)<br><br>
 - 💬 Ask me about **Data Science, ML,DL,Web Dev**<br><br>
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q3wjezMTVjsu5RTRC6oepxfHVHjheM2s/view?usp=drivesdk](https://drive.google.com/file/d/1q3wjezMTVjsu5RTRC6oepxfHVHjheM2s/view?usp=drivesdk)<br><br>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q3wjezMTVjsu5RTRC6oepxfHVHjheM2s/view?usp=drivesdk](ht)<br><br>
 - 📫 How to reach me **nikhildaram51@gmail.com**<br>
  
 <img align='left'><img src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vdbcq5yjcz9j6vd0mp7n464x2gtzi4jrzciw8h6v&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
