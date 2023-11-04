@@ -3,10 +3,12 @@
 
 # Hi 👋 I'm Daram Nikhil
 - 🔭 I’m currently working on **OpenCv** projects<br><br>
+- 🚀 I’m currently looking for a Intership with a role of Data Scientist.<br><br>
 - 🌱 I’m currently learning **Data Science, Web Dev**<br><br>
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/daramnikhil](https://www.linkedin.com/in/daramnikhil)<br><br>
+- 👯 I’m looking to collaborate with people with Amazing Ideas.<br><br>
+- 👨‍💻 All of my projects are available at https://nikhil-portfolio-bes5.onrender.com<br><br>
 - 💬 Ask me about **Data Science, ML,DL,Web Dev**<br><br>
-- 📄 Know about my experiences [https://docs.google.com/document/d/1S7xHVQEM3QJR0SroBdh_shsYSlVATn79/edit?usp=drivesdk&ouid=118113278262075419010&rtpof=true&sd=true](https://drive.google.com/file/d/1q2Erku2N_DX4S_nNovSc_84UC3fNDv5a/view?usp=drivesdk)<br><br>
+- 📄 Know about me https://nikhil-portfolio-bes5.onrender.com<br><br>
 - 📫 How to reach me **nikhildaram51@gmail.com**<br>
  
 <img align='left'><img src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vdbcq5yjcz9j6vd0mp7n464x2gtzi4jrzciw8h6v&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
