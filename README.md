@@ -6,9 +6,9 @@
 - 🚀 I’m currently looking for a Intership with a role of Data Scientist.<br><br>
 - 🌱 I’m currently learning **Data Science, Web Dev**<br><br>
 - 👯 I’m looking to collaborate with people with Amazing Ideas.<br><br>
-- 👨‍💻 All of my projects are available at https://nikhil-portfolio-bes5.onrender.com<br><br>
+- 👨‍💻 All of my projects are available at https://daramnikhil.github.io<br><br>
 - 💬 Ask me about **Data Science, ML,DL,Web Dev**<br><br>
-- 📄 Know about me https://daramnikhil.github.io<br><br>
+- 📄 Know about me [resume](https://drive.google.com/file/d/1KSJLDZSwHdGCJle96EVUEcobIWFv-pXZ/view?usp=drivesdk)<br><br>
 - 📫 How to reach me **nikhildaram51@gmail.com**<br>
  
 <img align='left'><img src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vdbcq5yjcz9j6vd0mp7n464x2gtzi4jrzciw8h6v&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
