@@ -27,7 +27,7 @@ I'm a passionate Data Scientist and Web Developer with a strong background in ma
 
 ## 📄 Resume
 
--   View my [resume](https://drive.google.com/file/d/1KSJLDZSwHdGCJle96EVUEcobIWFv-pXZ/view?usp=drivesdk).
+-   View my [resume](https://drive.google.com/file/d/1hO-Gru6GhkmCKsEJoOHGka_oXifkJJVY/view?usp=drivesdk)
 
 ## 👨‍💻 Projects
 
